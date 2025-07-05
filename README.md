@@ -29,7 +29,8 @@ Replace `YOUR_API_KEY` in `news.js` with your own News API key.
 - Thanks to the News API for providing the data.  
 - Inspired by various news websites for design and functionality.
 ## Screenshots
-![Screenshot of the news website](news.png)
+![Screenshot of the news website]
+![image alt] (https://github.com/shonndevsakat/News-Search/blob/ca12aeed61a4c66ec993d7b5269c497fdb6503c2/news.PNG)
 
 ## Author
 Created by Shonndev Sakat.
